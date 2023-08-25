@@ -8,7 +8,7 @@ const calculate = (a, b ,operation) =>{
 }
 
 
-// jab function ka kuch name nahi hota ha us function ko anonemas function khate ha
+// jab function ka kuch name nahi hota ha us function ko anonymous function khate ha
 
 //methiod 1
  const addition = calculate(3 , 4 , function ( num1 ,num2){
